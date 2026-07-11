@@ -74,12 +74,8 @@ Local-first Windows dictation app — **Whisper on-device** for private, offline
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lookynch/lookynch/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/lookynch/lookynch/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Contribution stats" />
-<img src="https://raw.githubusercontent.com/lookynch/lookynch/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most-used languages" />
+<img src="https://raw.githubusercontent.com/lookynch/lookynch/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages across all repositories" />
+<img src="https://raw.githubusercontent.com/lookynch/lookynch/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
 <br /><br />
 
